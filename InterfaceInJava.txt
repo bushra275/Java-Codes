@@ -1,4 +1,4 @@
 1. Interface is also a type of class,
 2. Parent classs jasari baschha.
 3. Only abstract functions exists.
-4. Abstraact functions are those functions which doesn't have any body.
+4. Abstract functions are those functions which doesn't have any body.
